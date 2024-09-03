@@ -1,5 +1,5 @@
 # AdventureWorks2013 Production Analysis
-
+![Visualization 1](AdventureWorks_Dashboard.jpg)
 - **Author:** Maher Mahmoud Maher 
 - **Date:** 29/08/2024
 
